@@ -1,1 +1,1 @@
-#X lib files needed when installing matlab in ubuntu
+# X lib files needed when installing matlab in ubuntu
